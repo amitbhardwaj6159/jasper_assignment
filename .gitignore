@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+jasper
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -205,3 +206,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.github/instructions/wmt-copilot.instructions.md
